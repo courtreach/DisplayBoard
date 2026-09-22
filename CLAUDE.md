@@ -33,7 +33,7 @@ explicitly asked) split the *data*.
 
 ## Deployment state
 
-- **Repo:** `DisplayBoard` under GitHub user `sdentertainmentservices1234`, public.
+- **Repo:** `DisplayBoard` under GitHub user `courtreach`, public.
 - **Firebase project:** `sd-chamber-1aa78` — SAME project as SD-Chamber (see
   above). Auth email/password ON, Firestore in `asia-south1`.
 - **firebaseConfig is baked into board.html** (public by design; security is
@@ -42,7 +42,7 @@ explicitly asked) split the *data*.
   appId 1:287957629475:web:9c7804acf3060c73abcf96.
 - **Not yet deployed from this repo.** Enable GitHub Pages (Settings → Pages
   → Deploy from branch `main` / root) to go live at
-  `https://sdentertainmentservices1234.github.io/DisplayBoard/board.html`.
+  `https://courtreach.github.io/DisplayBoard/board.html`.
   Until then the board is still served from the SD-Chamber Pages site.
 - **Cause-list Action needs a first run:** like every fresh clone of this
   fetcher, enable Actions write permission (Settings → Actions → General →

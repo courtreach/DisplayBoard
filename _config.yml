@@ -2,7 +2,7 @@
 #
 # Making a repo private stops people CLONING it. It does not stop Pages serving the built
 # site: every tracked file was still fetchable by name at
-# sdentertainmentservices1234.github.io/DisplayBoard/<path>, whatever the repo's visibility.
+# courtreach.github.io/DisplayBoard/<path>, whatever the repo's visibility.
 # That included board-dev/worker.js — the Cloudflare Worker source, carrying the proximity
 # engine, the whole Web Push/VAPID implementation and the Firestore service-account
 # plumbing — plus the setup docs and the cause-list scraper. None of it is anything a
